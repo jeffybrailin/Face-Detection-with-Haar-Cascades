@@ -157,8 +157,15 @@ if group is not None:
 
 ## Output:
 
-<img width="397" height="358" alt="image" src="https://github.com/user-attachments/assets/f786e720-61ee-4231-82b3-0b98a01c3518" />
+<img width="296" height="353" alt="image" src="https://github.com/user-attachments/assets/737e0738-69ec-45cc-ad94-b34651d7e580" />
+<img width="397" height="358" alt="image" src="https://github.com/user-attachments/assets/8a9170b3-b7d1-4a3c-9ba3-1bb456ad4d29" />
 
-<img width="397" height="357" alt="image" src="https://github.com/user-attachments/assets/b4ceb54a-73d0-4252-91f9-007494af5ff6" />
 
-<img width="290" height="362" alt="image" src="https://github.com/user-attachments/assets/5613812c-adfa-4426-abe2-a124a302f9e8" />
+<img width="298" height="362" alt="image" src="https://github.com/user-attachments/assets/9edf6827-b640-414e-aa0f-f8aad7414378" />
+<img width="397" height="357" alt="image" src="https://github.com/user-attachments/assets/b71d8a80-c593-41cf-8cff-7e0e7b2da3df" />
+
+<img width="290" height="362" alt="image" src="https://github.com/user-attachments/assets/ff646b02-2140-4c1f-943c-879003bd8e33" />
+<img width="425" height="363" alt="image" src="https://github.com/user-attachments/assets/58c4d072-1e18-424c-9253-f2a2181723bc" />
+
+## Result:
+Thus executed successfully
